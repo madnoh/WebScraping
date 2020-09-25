@@ -1,0 +1,82 @@
+[
+  {
+    "shortName": "ARS",
+    "longName": "Arsenal"
+  },
+  {
+    "shortName": "AVL",
+    "longName": "Aston Villa"
+  },
+  {
+    "shortName": "BOU",
+    "longName": "Bournemouth"
+  },
+  {
+    "shortName": "BRI",
+    "longName": "Brighton and Hove Albion"
+  },
+  {
+    "shortName": "BUR",
+    "longName": "BURNLEY"
+  },
+  {
+    "shortName": "CHE",
+    "longName": "Chelsea"
+  },
+  {
+    "shortName": "CPL",
+    "longName": "Crystal Palace"
+  },
+  {
+    "shortName": "EVE",
+    "longName": "Everton"
+  },
+  {
+    "shortName": "LEI",
+    "longName": "Leicester City"
+  },
+  {
+    "shortName": "LIV",
+    "longName": "Liverpool"
+  },
+  {
+    "shortName": "MCI",
+    "longName": "Manchester City"
+  },
+  {
+    "shortName": "MUN",
+    "longName": "Manchester United"
+  },
+  {
+    "shortName": "NEW",
+    "longName": "Newcastle United"
+  },
+  {
+    "shortName": "NOR",
+    "longName": "Norwich City"
+  },
+  {
+    "shortName": "SHU",
+    "longName": "Sheffield United"
+  },
+  {
+    "shortName": "SOU",
+    "longName": "Southampton"
+  },
+  {
+    "shortName": "TOT",
+    "longName": "Tottenham Hotspur"
+  },
+  {
+    "shortName": "WAT",
+    "longName": "Watford"
+  },
+  {
+    "shortName": "WHU",
+    "longName": "West Ham United"
+  },
+  {
+    "shortName": "WOL",
+    "longName": "Wolverhampton Wanderers"
+  }
+]
